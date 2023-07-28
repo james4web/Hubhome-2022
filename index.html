@@ -1,0 +1,31 @@
+---
+layout: default
+---
+{% include floating-sidebar.html %}
+{% include main-nav.html %}
+<div class="container">
+    <div class="row">
+           <div class="col-9 col-xs-12" id="main">
+                {% include hero-2.html %} 
+                <div class="main-wrapper col-12">
+                    <div class="row">
+                        <div class="left-sidebar col-3 col-xs-0">
+                            {% include sidebar-left.html %}
+                        </div>
+                        <div class="main-content col-9 col-xs-0">
+                            <img class="banner" src="assets/images/banner-1col.png" alt="" style="border-radius: 8px; width: 100%;">
+                            {% include news-you-can-share.html %}
+                            <img class="banner" src="assets/images/banner-2col.png" alt="" style="border-radius: 8px; width: 100%;">
+                            {% include hubtv-mobile.html %}
+                            {% include popular2.html %}
+                            <img class="banner" src="assets/images/banner-3col.png" alt="" style="border-radius: 8px; width: 100%;">
+                            {% include events-mobile.html %}
+                            {% include feeds.html %}
+                            {% include slack-mobile.html %}
+                        </div>
+                    </div>
+                </div>
+            </div>
+            {% include sidebar-right.html %}
+    </div>
+</div>

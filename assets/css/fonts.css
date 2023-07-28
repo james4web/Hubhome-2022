@@ -1,0 +1,39 @@
+@font-face {
+    font-family:'MarketSans';
+    font-style:normal;
+    font-weight:400;
+    src:url('assets/fonts/marketsans/MarketSans-Regular-WebS.eot');
+    /* IE9 Compat Modes */
+    src:local('Market Sans'), local('MarketSans-Regular'), url('MarketSans-Regular-WebS.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('assets/fonts/marketsans/MarketSans-Regular-WebS.woff2') format('woff2'), /* Super Modern Browsers */
+    url('assets/fonts/marketsans/MarketSans-Regular-WebS.woff') format('woff'), /* Modern Browsers */
+    url('assets/fonts/marketsans/MarketSans-Regular-WebS.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('assets/fonts/marketsans/MarketSans-Regular-WebS.svg#MarketSans') format('svg');
+    /* Legacy iOS */
+}
+@font-face {
+    font-family:'MarketSans';
+    font-style:normal;
+    font-weight:500;
+    src:url('assets/fonts/marketsans/MarketSans-Medium-WebS.eot');
+    /* IE9 Compat Modes */
+    src:local('Market Sans'), local('MarketSans-Medium'), url('assets/fonts/marketsans/MarketSans-Medium-WebS.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('assets/fonts/marketsans/MarketSans-Medium-WebS.woff2') format('woff2'), /* Super Modern Browsers */
+    url('assets/fonts/marketsans/MarketSans-Medium-WebS.woff') format('woff'), /* Modern Browsers */
+    url('assets/fonts/marketsans/MarketSans-Medium-WebS.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('assets/fonts/marketsans/MarketSans-Medium-WebS.svg#MarketSans') format('svg');
+}
+
+@font-face {
+    font-family:'MarketSans';
+    font-style:normal;
+    font-weight:800;
+    src:url('assets/fonts/marketsans/MarketSans-Bold-WebS.eot');
+    /* IE9 Compat Modes */
+    src:local('assets/fonts/marketsans/Market Sans'), local('MarketSans-Bold'), url('assets/fonts/marketsans/MarketSans-Bold-WebS.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+    url('assets/fonts/marketsans/MarketSans-Bold-WebS.woff2') format('woff2'), /* Super Modern Browsers */
+    url('assets/fonts/marketsans/MarketSans-Bold-WebS.woff') format('woff'), /* Modern Browsers */
+    url('assets/fonts/marketsans/MarketSans-Bold-WebS.ttf') format('truetype'), /* Safari, Android, iOS */
+    url('assets/fonts/marketsans/MarketSans-Bold-WebS.svg#MarketSans') format('svg');
+    /* Legacy iOS */
+}
